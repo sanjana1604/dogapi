@@ -75,14 +75,5 @@ img {
 .container {
   margin-top: 30px;
 }
-@media (max-width: 480px) {
-  
-  body {
-  background-color: lightseagreen;
-    font-size:100%;
-}
-  img {
-    width:100%;
-    height:100%;
-  }
-}
+
+
